@@ -6,7 +6,9 @@
    1. REACT
    2. VITE
    3. MATERIAL-UI
-   4. CSS
+   4. HTML
+   5. JAVASCRIPT
+   6. CSS
 
 ## Author :
    - Akash Deep
